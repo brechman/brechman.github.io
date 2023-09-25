@@ -1,0 +1,7 @@
+@mixin link-style {
+    color: $primary-color;
+    &:hover {
+      color: $secondary-color;
+      text-decoration: none;
+    }
+  }
