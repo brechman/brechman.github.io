@@ -497,7 +497,7 @@ section {
   padding: 15px; 
 } 
  
-.contact .loading:before { 
+.contact .php-email-form .loading:before { 
   content: ""; 
   display: inline-block; 
   border-radius: 50%; 
